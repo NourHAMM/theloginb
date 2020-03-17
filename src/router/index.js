@@ -6,7 +6,7 @@ import Public from '../views/Public.vue'
 import Private from '../views/Private.vue'
 
 
-Vue.use(VueRouter);
+Vue.use(VueRouter)
 
 const routes = [
   {
